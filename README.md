@@ -1,7 +1,9 @@
 # Recipes List
 
-#Links
+
+## Links
 - Link to the Assigment (https://www.theodinproject.com/lessons/foundations-recipes)
 
-#About
+
+## About
 A webpage made during Odin foundation course - the Odin Project. 
